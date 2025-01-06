@@ -23,3 +23,49 @@
   border-inline: none;
   justify-content: space-between;
 }
+
+@media (max-width: 768px) {
+  #primary {
+    padding-block: 16px;
+
+    div {
+      display: flex;
+      align-items: center;
+      gap: 0;
+
+      & strong {
+        display: none;
+      }
+    }
+
+    /* nesting css */
+    div:nth-child(2) {
+      margin-inline: auto;
+
+      & img {
+        height: 15px;
+      }
+    }
+
+    div:nth-child(3) {
+      justify-self: end;
+    }
+  }
+
+  #secondary {
+    grid-auto-flow: column;
+    /* flex-direction: row; */
+    justify-content: start;
+    gap: 32px;
+    overflow: auto;
+    scrollbar-width: none;
+
+    & a {
+      width: max-content;
+    }
+    
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}
