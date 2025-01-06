@@ -1,29 +1,29 @@
 # NewsPortal
 
-**NewsPortal** é um projeto simples de portal de notícias que permite visualizar e acessar conteúdos de diferentes categorias, oferecendo um design limpo e responsivo para a melhor experiência do usuário.
+**NewsPortal** is a simple news portal project that allows you to view and access content from different categories, offering a clean and responsive design for the best user experience.
 
-## 🖥️ Funcionalidades
+## 🖥️ Features
 
-- **Página Inicial:**
-  - Exibe as principais notícias em destaque.
-  - Organização das notícias por categorias, como Política, Tecnologia, Esportes e Entretenimento.
+- **Home Page:**
+- Displays the main news stories.
+- Organization of news stories by categories, such as Politics, Technology, Sports and Entertainment.
 
-- **Visualização de Artigos:**
-  - Página dedicada para exibir o conteúdo completo de uma notícia.
-  - Informações como título, data de publicação, autor e corpo do artigo.
+- **Article View:**
+- Dedicated page to display the full content of a news story.
+- Information such as title, publication date, author and body of the article.
 
-- **Navegação Intuitiva:**
-  - Links para acessar facilmente categorias específicas.
-  - Pesquisa para encontrar artigos pelo título ou palavra-chave.
+- **Intuitive Navigation:**
+- Links to easily access specific categories.
+- Search to find articles by title or keyword.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **HTML5**: Para a estruturação das páginas.
-- **CSS3**: Para estilização e design responsivo.
+- **HTML5**: For structuring pages.
+- **CSS3**: For styling and responsive design.
 ---
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-1. Clone este repositório:
-   ```bash
-   git clonehttps://github.com/CiceroEduardo84/News_Portal.git
+1. Clone this repository:
+```bash
+git clone https://github.com/CiceroEduardo84/News_Portal.git
